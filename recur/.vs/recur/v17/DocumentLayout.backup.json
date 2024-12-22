@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0438\\recur\\recur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E20E2E0-7B87-42B4-B0FD-2E21EE23FCD5}|recur\\recur.vcxproj|C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0438\\recur\\recur\\recur\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E20E2E0-7B87-42B4-B0FD-2E21EE23FCD5}|recur\\recur.vcxproj|solutionrelative:recur\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0438\\recur\\recur\\recur\\Source.cpp",
+              "RelativeDocumentMoniker": "recur\\Source.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0442\u0438\u043A\u0430\\\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0438\\recur\\recur\\recur\\Source.cpp",
+              "RelativeToolTip": "recur\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-22T16:02:02.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
