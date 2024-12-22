@@ -13,7 +13,7 @@ float rec(int n)
 }
 int main()
 {
-	setlocale(LC_ALL, "RU");
+	setlocale(LC_ALL, "Russian");
 	cout << "¬ведите количество элементов последовательности: ";
 	cin >> n;
 	cout << "¬ведите значение переменной x: ";
